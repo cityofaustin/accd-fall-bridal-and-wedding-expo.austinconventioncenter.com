@@ -19,9 +19,9 @@ sales_manager:
   email: regina.salinas@austintexas.gov
   phone: 5124044204
 it_coordinator:
-  name: Jeff Moore
-  email: jeff.moore@austintexas.gov
-  phone: 5124044033
+  name: Jason Perkins
+  email: jason.perkins@austintexas.gov
+  phone: 5124044089
 theme: 
 remote_theme: cityofaustin/jekyll-theme-kocurek@v0.3.4
 searchable: true
